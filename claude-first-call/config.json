@@ -1,0 +1,8 @@
+{
+    "rules": [
+        "Amount must be positive",
+        "Status must be active or expired only",
+        "PROMO10 maximum discount is $100",
+        "PROMO20 is for new customers only"
+    ]
+}
