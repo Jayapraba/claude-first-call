@@ -49,13 +49,4 @@ Python 3
 Anthropic Claude API (claude-haiku-4-5)
 python-dotenv for secrets management
 
-What I Learned
 
-How to inject dynamic business rules into Claude prompts at runtime
-How system prompts enforce consistent output format
-How to handle Claude API responses defensively
-Configuration driven design applied to AI workflows
-
-Author
-Jaya — Senior Data Engineer transitioning to AI Enablement
-15 years building data platforms at enterprise scale
