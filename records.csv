@@ -1,0 +1,6 @@
+account_id,promo_code,amount,status
+ACC001,PROMO10,100,active
+ACC002,PROMO20,-50,active
+ACC003,PROMO10,100,expired
+ACC004,PROMO30,99999,active
+ACC005,PROMO20,50,active
